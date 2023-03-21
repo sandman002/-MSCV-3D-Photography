@@ -7,6 +7,6 @@ The USB camera is calibrated using a planer homography. The led light's location
 
 The triagulation is obtained by intersection of shadow plane and the ray of light from the camera.
 Website:
-sandman002.github.io/-MSCV-3D-Photography
+https://sandman002.github.io/-MSCV-3D-Photography
 #Demo 
 https://youtu.be/wjBpIo2HoH4
